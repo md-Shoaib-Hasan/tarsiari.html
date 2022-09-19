@@ -1,0 +1,47 @@
+
+#of,body{
+            background-color:rgb(13, 66, 13);
+            color:gold;
+            align-content: center;
+            margin:50px;
+        }
+        #me{
+            text-align: left;
+        }
+        
+      h2,h1{
+            text-align-last: center;
+    
+        }
+        #islam{
+            height: 60px;
+            scrollbar-highlight-color: cyan;
+            color: white;
+        }
+
+        #and{
+            text-align: justify;
+            font-size:30px;
+        }
+        .left{
+            margin:2opx;
+            padding: 30px 10px 25px 10px;
+        align-items: center;
+        }
+.center{
+    text-align: center;
+}
+#in{
+    background-color: rgb(4, 65, 17);
+    text-align: left;
+    color:rgb(126, 128, 21);
+}
+#out{
+    background-color: rgb(4, 65, 17);
+    color:rgb(126, 128, 21);
+  
+}
+.center:hover{
+    background-color: rgb(14, 141, 9);
+    color: chartreuse;
+}
