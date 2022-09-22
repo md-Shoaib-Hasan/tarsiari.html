@@ -8,6 +8,10 @@
         #me{
             text-align: left;
         }        
+        button{
+            background-image: linear-gradient(#17A9FD , rgb(79, 93, 219));
+            color: aliceblue;
+        }
         
       h2,h1{
             text-align-last: center;
@@ -34,11 +38,11 @@
 #in{
     background-color: rgb(4, 65, 17);
     text-align: left;
-    color:rgb(126, 128, 21);
+    color:rgb(240, 240, 234);
 }
 #out{
     background-color: rgb(4, 65, 17);
-    color:rgb(126, 128, 21);
+    color:rgb(235, 235, 230);
   
 }
 .center:hover{
