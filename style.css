@@ -53,3 +53,9 @@ footer{
     text-align: center;
     color: black
 }
+td,th{
+    width: 400px;
+    height: 3px;
+    font-size: 20px;
+    text-align: center;
+}
