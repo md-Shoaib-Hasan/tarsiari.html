@@ -30,7 +30,7 @@
         .left{
             margin:2opx;
             padding: 30px 10px 25px 10px;
-        align-items: center;
+        text-align: left;
         }
 .center{
     text-align: center;
@@ -48,4 +48,8 @@
 .center:hover{
     background-color: rgb(14, 141, 9);
     color: chartreuse;
+}
+footer{
+    text-align: center;
+    color: black
 }
