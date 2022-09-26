@@ -40,7 +40,7 @@
     text-align: left;
     color:rgb(240, 240, 234);
 }
-#out{
+.out{
     background-color: rgb(4, 65, 17);
     color:rgb(235, 235, 230);
   
@@ -57,5 +57,8 @@ td,th{
     width: 400px;
     height: 3px;
     font-size: 20px;
+    text-align: center;
+}
+#audio{
     text-align: center;
 }
