@@ -62,3 +62,8 @@ td,th{
 #audio{
     text-align: center;
 }
+table{
+    border: 20px;
+    text-align: center;
+    font-size: 12px;
+}
